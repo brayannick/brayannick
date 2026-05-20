@@ -5,7 +5,7 @@
 
 ---
 
-# 🚀 Sobre Mim
+# 🚀 Sobre mim
 
 Olá! Eu me chamo **Nick Brayan Costa Fernandes** e sou desenvolvedor Fullstack com foco em desenvolvimento web e soluções tecnológicas modernas.
 Tenho experiência com tecnologias voltadas para front-end, back-end, automação e análise de dados.
@@ -14,9 +14,9 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos inovadores e en
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & ferramentas
 
-## 💻 Linguagens e Tecnologias
+## 💻 Linguagens e tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -26,7 +26,7 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos inovadores e en
 
 ---
 
-## ⚙️ Frameworks & Bibliotecas
+## ⚙️ Frameworks & bibliotecas
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -34,9 +34,11 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos inovadores e en
 
 ---
 
-## 🎨 Design & Ferramentas
+## 🎨 Design & ferramentas
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -47,7 +49,7 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos inovadores e en
 
 ---
 
-# 🌟 Soft Skills
+# 🌟 Soft skills
 
 ✅ Pontualidade <br>
 ✅ Comprometimento <br>
@@ -66,10 +68,10 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos inovadores e en
 
 ---
 
-# 🌐 Conecte-se Comigo
+# 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nick-brayan-costa-fernandes-3a75a5342/) <br>
-📧 **Email:** disneybartra@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nick-brayan-costa-fernandes-3a75a5342/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disneybartra@gmail.com)
 
 ---
 
